@@ -1,7 +1,7 @@
 # Desafio1
 Programa Desenvolve 2022
 
-O objetivo é colocar uma aplicação simples em produção tendo como base os conhecimentos de DevOps adquiridos durante o Programa Desenvolve 2022. 
+O objetivo é colocar uma aplicação simples em produção tendo como base os conhecimentos de DevOps adquiridos durante o Programa Desenvolve 2022 especialmente no que se refere ao CI/CD (Continuous Integration and Continuous Delivery). 
 Este é um desafio oferecido pelo mentor Bruno Demboscki aos seus mentorados para auxiliar em nosso desenvolvimento profissional.
 
 A api que desenvolvi é um Hello World disponível por requisição.
